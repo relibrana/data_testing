@@ -1,0 +1,200 @@
+﻿year,quarter,DCKB Datacenter ID,Company,DCKB Datacenter Name,Facility Owner,Data Center Tenancy,Datacenter Operational Status,Year Built,Datacenter Type,Street Address,Country,City,Zip Code,Latitude,Longitude, Total Operational Space , Total Operational Space Utilized ,Total UPS Power (kW) ,Total UPS Power Utilized (kW),Total Utility Power (kW) ,PUE,Total Racks 
+2018,4,43,4D,4D Surrey,4D,Multi,Operational,2008,Retail,122 Oyster Ln.,United Kingdom,Byfleet,KT14 7JU,51.3472918,-0.4801735,7000,5810,750,623,900,1.2,194
+2019,4,43,4D,4D Surrey,4D,Multi,Operational,2008,Retail,122 Oyster Ln.,United Kingdom,Byfleet,KT14 7JU,51.3472918,-0.4801735,7000,5810,750,623,900,1.2,194
+2020,4,43,4D,4D Surrey,4D,Multi,Operational,2008,Retail,122 Oyster Ln.,United Kingdom,Byfleet,KT14 7JU,51.3472918,-0.4801735,7000,5810,750,623,900,1.2,194
+2018,4,44,4D,4D Docklands,Digital Realty,Multi,Operational,,Retail,215 Marsh Wall,United Kingdom,London,E14 9FJ,51.5006433,-0.0117642,800,640,110,88,221,2,22
+2019,4,44,4D,4D Docklands,Digital Realty,Multi,Operational,,Retail,215 Marsh Wall,United Kingdom,London,E14 9FJ,51.5006433,-0.0117642,800,640,110,88,221,2,22
+2020,4,44,4D,4D Docklands,Digital Realty,Multi,Operational,,Retail,215 Marsh Wall,United Kingdom,London,E14 9FJ,51.5006433,-0.0117642,800,640,110,88,221,2,22
+2018,4,46,4D,4D City,Redcentric,Multi,Operational,1993,Retail,80 Clifton St.,United Kingdom,London,EC2A 4HB,51.5230113,-0.0828949,800,640,110,88,220,2,22
+2019,4,46,4D,4D City,Redcentric,Multi,Operational,1993,Retail,80 Clifton St.,United Kingdom,London,EC2A 4HB,51.5230113,-0.0828949,800,640,110,88,220,2,22
+2020,4,46,4D,4D City,Redcentric,Multi,Operational,1993,Retail,80 Clifton St.,United Kingdom,London,EC2A 4HB,51.5230113,-0.0828949,800,640,110,88,220,2,22
+2018,4,51,Rackspace,LON1,CenturyLink,Multi,Operational,,Retail,260-266 Goswell Rd.,United Kingdom,London,EC1V 7EB,51.5287004,-0.1010349,4200,3024,252,181,454,1.8,117
+2019,4,51,Rackspace,LON1,CenturyLink,Multi,Operational,,Retail,260-266 Goswell Rd.,United Kingdom,London,EC1V 7EB,51.5287004,-0.1010349,4200,3024,252,181,454,1.8,117
+2020,4,51,Rackspace,LON1,Lumen,Multi,Operational,,Retail,260-266 Goswell Rd.,United Kingdom,London,EC1V 7EB,51.5287004,-0.1010349,4200,3024,252,181,454,1.8,117
+2018,4,52,Rackspace,LON2,Digital Realty,Multi,Operational,2003,Retail,Unit 21 Goldsworth Park Trading Estate,United Kingdom,Woking,GU21 3BA,51.3234975,-0.587003,2000,1200,300,180,540,1.8,56
+2019,4,52,Rackspace,LON2,Digital Realty,Multi,Operational,2003,Retail,Unit 21 Goldsworth Park Trading Estate,United Kingdom,Woking,GU21 3BA,51.3234975,-0.587003,2000,1200,300,180,540,1.8,56
+2020,4,52,Rackspace,LON2,Digital Realty,Multi,Operational,2003,Retail,Unit 21 Goldsworth Park Trading Estate,United Kingdom,Woking,GU21 3BA,51.3234975,-0.587003,2000,1200,300,180,540,1.8,56
+2018,4,53,Rackspace,LON3,Global Switch,Multi,Operational,,Retail,240 East India Dock Road,United Kingdom,London,E14 9YY,51.5111482,-0.0060816,3200,2720,171,145,308,1.8,89
+2019,4,53,Rackspace,LON3,Global Switch,Multi,Operational,,Retail,240 East India Dock Road,United Kingdom,London,E14 9YY,51.5111482,-0.0060816,3200,2720,171,145,308,1.8,89
+2020,4,53,Rackspace,London Three,Global Switch,Multi,Operational,,Retail,240 East India Dock Road,United Kingdom,London,E14 9YY,51.5111482,-0.0060816,3200,2720,171,145,308,1.8,89
+2018,4,59,Aegis Data,Surrey Data Park,Aegis Data,Multi,Not Operational,,Retail,"Catteshall Lane, Surrey Data Park",United Kingdom,Godalming,GU7 1LB,51.186271,-0.6017284, -   , -   , -   , -   ,,1.1, -   
+2019,4,59,Aegis Data,Surrey Data Park,Aegis Data,Multi,Not Operational,,Retail,"Catteshall Lane, Surrey Data Park",United Kingdom,Godalming,GU7 1LB,51.186271,-0.6017284, -   , -   , -   , -   ,,1.1, -   
+2020,4,59,Aegis Data,Surrey Data Park,Aegis Data,Multi,Not Operational,,Retail,"Catteshall Lane, Surrey Data Park",United Kingdom,Godalming,GU7 1LB,51.186271,-0.6017284, -   , -   , -   , -   ,,1.1, -   
+2018,4,109,Ark Data Centres,A101,Ark Data Centres,Multi,Operational,2013,Wholesale,"Cody Park, Old Ively Road",United Kingdom,Farnborough,GU14 0LH,51.279501,-0.792355,34875,34875,4560,4560,5472,1.2,1090
+2019,4,109,Ark Data Centres,A101,Ark Data Centres,Multi,Operational,2013,Wholesale,"Cody Park, Old Ively Road",United Kingdom,Farnborough,GU14 0LH,51.279501,-0.792355,34875,34875,4560,4560,5472,1.2,1090
+2020,4,109,Ark Data Centres,A101,Ark Data Centres,Multi,Operational,2013,Wholesale,"Cody Park, Old Ively Road",United Kingdom,Farnborough,GU14 0LH,51.279501,-0.792355,34875,34875,4560,4560,5472,1.2,1090
+2018,4,110,Ark Data Centres,A9,Ark Data Centres,Multi,Operational,2011,Wholesale,"Cody Park, Old Ively Road",United Kingdom,Farnborough,GU14 0LX,51.279501,-0.792355,6652,5987,800,720,1120,1.4,202
+2019,4,110,Ark Data Centres,A9,Ark Data Centres,Multi,Operational,2011,Wholesale,"Cody Park, Old Ively Road",United Kingdom,Farnborough,GU14 0LX,51.279501,-0.792355,6652,5987,800,720,1120,1.4,202
+2020,4,110,Ark Data Centres,A9,Ark Data Centres,Multi,Operational,2011,Wholesale,"Cody Park, Old Ively Road",United Kingdom,Farnborough,GU14 0LX,51.279501,-0.792355,6652,6652,800,800,1120,1.4,202
+2018,4,132,AT&T,LHR1,Digital Realty,Multi,Operational,2009,Retail,227 Marsh Wall,United Kingdom,London,E14 9SD,51.499732,-0.010743,3397,2718,554,443,997,1.8,94
+2019,4,132,Evoque,LHR1,Digital Realty,Multi,Operational,2009,Retail,227 Marsh Wall,United Kingdom,London,E14 9SD,51.499732,-0.010743,3397,2718,554,443,997,1.8,94
+2020,4,132,Evoque,LHR1,Digital Realty,Multi,Operational,2009,Retail,227 Marsh Wall,United Kingdom,London,E14 9SD,51.499732,-0.010743,3397,2718,554,443,997,1.8,94
+2018,4,194,Six Degrees,City of London,CenturyLink,Multi,Operational,,Retail,260-266 Goswell Rd.,United Kingdom,London,EC1V 7EB,51.5287004,-0.1010349,10000,5000,600,300,1140,1.9,278
+2019,4,194,Six Degrees,City of London,CenturyLink,Multi,Operational,,Retail,260-266 Goswell Rd.,United Kingdom,London,EC1V 7EB,51.5287004,-0.1010349,10000,5000,600,300,1140,1.9,278
+2020,4,194,Six Degrees,City of London,Lumen,Multi,Operational,,Retail,260-266 Goswell Rd.,United Kingdom,London,EC1V 7EB,51.5287004,-0.1010349,10000,5000,600,300,1140,1.9,278
+2018,4,195,Six Degrees,Docklands London,Global Switch,Multi,Operational,,Retail,240 East India Dock Road,United Kingdom,London,E14 9YY,51.5111482,-0.0060816,11000,5500,587,294,1115,1.9,306
+2019,4,195,Six Degrees,Docklands London,Global Switch,Multi,Operational,,Retail,240 East India Dock Road,United Kingdom,London,E14 9YY,51.5111482,-0.0060816,11000,5500,587,294,1115,1.9,306
+2020,4,195,Six Degrees,Docklands London,Global Switch,Multi,Operational,,Retail,240 East India Dock Road,United Kingdom,London,E14 9YY,51.5111482,-0.0060816,11000,5500,587,294,1115,1.9,306
+2018,4,197,Six Degrees,South East London,Six Degrees,Multi,Operational,2008,Retail,Anchor and Hope Lane,United Kingdom,London,SE7 7SQ,51.4245748,-0.1970336,15069,8288,1941,1068,3688,1.9,419
+2019,4,197,Six Degrees,South East London,Six Degrees,Multi,Operational,2008,Retail,Anchor and Hope Lane,United Kingdom,London,SE7 7SQ,51.4245748,-0.1970336,15069,8288,1941,1068,3688,1.9,419
+2020,4,197,Six Degrees,Greenwich,Six Degrees,Multi,Operational,2008,Retail,Anchor and Hope Lane,United Kingdom,London,SE7 7SQ,51.4245748,-0.1970336,15069,8288,1941,1068,3688,1.9,419
+2018,4,198,Six Degrees,Telehouse North,KDDI Telehouse,Multi,Operational,,Retail,"14 Coriander Ave, East India Dock Rd",United Kingdom,London,E14 2AA,51.511701,-0.0039214,1000,500,82,41,156,1.9,28
+2019,4,198,Six Degrees,Telehouse North,KDDI Telehouse,Multi,Operational,,Retail,"14 Coriander Ave, East India Dock Rd",United Kingdom,London,E14 2AA,51.511701,-0.0039214,1000,500,82,41,156,1.9,28
+2020,4,198,Six Degrees,Telehouse North,KDDI Telehouse,Multi,Operational,,Retail,"14 Coriander Ave, East India Dock Rd",United Kingdom,London,E14 2AA,51.511701,-0.0039214,1000,500,82,41,156,1.9,28
+2018,4,228,BT Group,LON1,BT Group,Multi,Operational,1997,Telco,26 Holborn Viaduct,United Kingdom,London,EC1A 2AT,51.517182,-0.105379,116271,81390,14976,10483,28454,1.9,3230
+2019,4,228,BT Group,LON1,BT Group,Multi,Operational,1997,Telco,26 Holborn Viaduct,United Kingdom,London,EC1A 2AT,51.517182,-0.105379,116271,81390,14976,10483,28454,1.9,3230
+2020,4,228,BT Group,LON1,BT Group,Multi,Operational,1997,Telco,26 Holborn Viaduct,United Kingdom,London,EC1A 2AT,51.517182,-0.105379,116271,81390,14976,10483,28454,1.9,3230
+2018,4,235,Cyberfort Group,Berkshire,Cyberfort Group,Multi,Operational,2004,Retail,"Venture West, New Greenham Park",United Kingdom,Newbury,RG19 6HX,51.3772631,-1.2894276,7500,6000,2000,1600,2700,1.8,208
+2019,4,235,Cyberfort Group,Berkshire,Cyberfort Group,Multi,Operational,2004,Retail,"Venture West, New Greenham Park",United Kingdom,Newbury,RG19 6HX,51.3772631,-1.2894276,7500,6000,2000,1600,2700,1.8,208
+2020,4,235,Cyberfort Group,Berkshire,Cyberfort Group,Multi,Operational,2004,Retail,"Venture West, New Greenham Park",United Kingdom,Newbury,RG19 6HX,51.3772631,-1.2894276,7500,6000,2000,1600,2700,1.8,300
+2018,4,277,CentriLogic,Bracknell,CentriLogic,Multi,Operational,2007,Retail,No. 5 Arlington Square,United Kingdom,Bracknell,RG12 1WA,51.4166165,-0.758679,5500,2750,770,385,1173,2.6,153
+2019,4,277,CentriLogic,Bracknell,CentriLogic,Multi,Operational,2007,Retail,No. 5 Arlington Square,United Kingdom,Bracknell,RG12 1WA,51.4166165,-0.758679,5500,2750,770,385,1173,2.6,153
+2020,4,277,CentriLogic,Bracknell,CentriLogic,Multi,Operational,2007,Retail,No. 5 Arlington Square,United Kingdom,Bracknell,RG12 1WA,51.4166165,-0.758679,5500,2750,770,385,1173,2.6,153
+2018,4,302,Redcentric,LON1,Redcentric,Multi,Operational,1993,Retail,80 Clifton St.,United Kingdom,London,EC2A 4HB,51.5229663,-0.0829156,21000,10500,2800,1400,4481,1.6,583
+2019,4,302,Redcentric,LON1,Redcentric,Multi,Operational,1993,Retail,80 Clifton St.,United Kingdom,London,EC2A 4HB,51.5229663,-0.0829156,21000,10500,2800,1400,4481,1.6,583
+2020,4,302,Redcentric,LON1,Redcentric,Multi,Operational,1993,Retail,80 Clifton St.,United Kingdom,London,EC2A 4HB,51.5229663,-0.0829156,21000,10500,2800,1400,4481,1.6,583
+2018,4,334,Cogent Communications,LON13,Cogent Communications,Multi,Operational,,Retail,200 Mastmaker Court,United Kingdom,London,E14 9UB,51.4999128,-0.0210049,3336,1334,230,92,423,1.9,93
+2019,4,334,Cogent Communications,LON13,Cogent Communications,Multi,Operational,,Retail,200 Mastmaker Court,United Kingdom,London,E14 9UB,51.4999128,-0.0210049,3336,1334,230,92,423,1.9,93
+2020,4,334,Cogent Communications,LON13,Cogent Communications,Multi,Operational,,Retail,200 Mastmaker Court,United Kingdom,London,E14 9UB,51.4999128,-0.0210049,3336,1334,230,92,423,1.9,93
+2018,4,378,Colt Data Centre Services,LON1 (Ferguson House),Colt Data Centre Services,Multi,Operational,1999,Retail,"Ferguson House, 15 Marylebone Road",United Kingdom,London,NW1 5JD,51.5228364,-0.1514423,16146,11302,2000,1400,2400,1.2,449
+2019,4,378,Colt Data Centre Services,LON1 (Ferguson House),Colt Data Centre Services,Multi,Operational,1999,Retail,"Ferguson House, 15 Marylebone Road",United Kingdom,London,NW1 5JD,51.5228364,-0.1514423,16146,12110,2000,1500,2400,1.2,449
+2020,4,378,Colt Data Centre Services,London City (Ferguson House) LON1,Colt Data Centre Services,Multi,Operational,1999,Retail,"Ferguson House, 15 Marylebone Road",United Kingdom,London,NW1 5JD,51.5228364,-0.1514423,16146,12110,2000,1500,2400,1.2,449
+2018,4,379,Colt Data Centre Services,LON2 (Powergate) london West,Colt Data Centre Services,Multi,Operational,,Retail,"9-13 Powergate Business Park, Volt Avenue",United Kingdom,London,NW10 6PN,51.5305468,-0.2574254,48438,42625,5000,4400,6000,1.2,1346
+2019,4,379,Colt Data Centre Services,LON2 (Powergate) london West,Colt Data Centre Services,Multi,Operational,,Retail,"9-13 Powergate Business Park, Volt Avenue",United Kingdom,London,NW10 6PN,51.5305468,-0.2574254,48438,43594,5000,4500,6000,1.2,1346
+2020,4,379,Colt Data Centre Services,London West (Powergate) LON2,Colt Data Centre Services,Multi,Operational,,Retail,"9-13 Powergate Business Park, Volt Avenue",United Kingdom,London,NW10 6PN,51.5305468,-0.2574254,48438,43594,5000,4500,6000,1.2,1346
+2018,4,380,Colt Data Centre Services,LON3 (Welwyn) London North,Colt Data Centre Services,Multi,Operational,2011,Retail,20 Black Fran Road,United Kingdom,Welwyn Garden City,AL71QA,51.7998989,-0.1837621,129929,116936,30436,27392,44573,1.1,3609
+2019,4,380,Colt Data Centre Services,LON3 (Welwyn) London North,Colt Data Centre Services,Multi,Operational,2011,Retail,20 Black Fran Road,United Kingdom,Welwyn Garden City,AL71QA,51.7998989,-0.1837621,162218,145996,38000,34200,44573,1.1,4506
+2020,4,380,Colt Data Centre Services,London North (Welwyn) LON3,Colt Data Centre Services,Multi,Operational,2011,Retail,20 Black Fran Road,United Kingdom,Welwyn Garden City,AL71QA,51.7998989,-0.1837621,172981,164332,40521,38495,44573,1.1,4805
+2018,4,392,Computacenter,Romford,Infinity SDC,Multi,Operational,2010,Retail,1 King George Close,United Kingdom,Romford,RM7 7PN,51.5814018,0.18634,7500,5250,901,631,1492,1.8,208
+2019,4,392,Computacenter,Romford,Infinity SDC,Multi,Operational,2010,Retail,1 King George Close,United Kingdom,Romford,RM7 7PN,51.5814018,0.18634,7500,5250,901,631,1492,1.8,208
+2020,4,392,Computacenter,Romford,Infinity SDC,Multi,Operational,2010,Retail,1 King George Close,United Kingdom,Romford,RM7 7PN,51.5814018,0.18634,7500,5250,901,631,1492,1.8,208
+2018,4,401,Daisy Group,Interxion London,Interxion,Multi,Operational,,Retail,"Hertsmere House, 2 Hertsmere Rd., Poplar",United Kingdom,London,E14 4AL,51.5070783,-0.0247371,500,250,75,38,135,1.8,14
+2019,4,401,Daisy Group,Interxion London,Interxion,Multi,Operational,,Retail,"Hertsmere House, 2 Hertsmere Rd., Poplar",United Kingdom,London,E14 4AL,51.5070783,-0.0247371,500,250,75,38,135,1.8,14
+2020,4,401,Daisy Group,Interxion London,Digital Realty,Multi,Operational,,Retail,"Hertsmere House, 2 Hertsmere Rd., Poplar",United Kingdom,London,E14 4AL,51.5070783,-0.0247371,500,250,75,38,135,1.8,14
+2018,4,460,CyrusOne,Woking,Digital Realty,Multi,Operational,2011,Wholesale,Unit 21 Goldsworth Park Trading Estate,United Kingdom,Woking,GU21 3BA,51.3234975,-0.587003,10000,9400,1000,940,2850,1.9,278
+2019,4,460,CyrusOne,Woking,Digital Realty,Multi,Operational,2011,Wholesale,Unit 21 Goldsworth Park Trading Estate,United Kingdom,Woking,GU21 3BA,51.3234975,-0.587003,10000,9600,1500,1440,2850,1.9,278
+2020,4,460,CyrusOne,Woking,Digital Realty,Multi,Operational,2011,Wholesale,Unit 21 Goldsworth Park Trading Estate,United Kingdom,Woking,GU21 3BA,51.3234975,-0.587003,10000,9600,1500,1440,2850,1.9,278
+2018,4,463,Daisy Group,North London,Virtus Data Centres,Multi,Operational,,Retail,"Unit 3, Trade City Crown Road",United Kingdom,Enfield,EN1 1TH,51.6523151,-0.0577126,5550,4163,833,625,1290,1.6,154
+2019,4,463,Daisy Group,North London,Virtus Data Centres,Multi,Operational,,Retail,"Unit 3, Trade City Crown Road",United Kingdom,Enfield,EN1 1TH,51.6523151,-0.0577126,5550,4163,833,625,1290,1.6,154
+2020,4,463,Daisy Group,North London,Virtus Data Centres,Multi,Operational,,Retail,"Unit 3, Trade City Crown Road",United Kingdom,Enfield,EN1 1TH,51.6523151,-0.0577126,5550,4163,833,625,1290,1.6,154
+2018,4,464,Daisy Group,Reading,Daisy Group,Multi,Operational,,Retail,1 Transcentral Bennet Rd,United Kingdom,Reading,RG2 0QX,51.4258441,-0.9754303,9500,6650,1425,998,2565,1.8,264
+2019,4,464,Daisy Group,Reading,Daisy Group,Multi,Operational,,Retail,1 Transcentral Bennet Rd,United Kingdom,Reading,RG2 0QX,51.4258441,-0.9754303,9500,6650,1425,998,2565,1.8,264
+2020,4,464,Daisy Group,Reading,Daisy Group,Multi,Operational,,Retail,1 Transcentral Bennet Rd,United Kingdom,Reading,RG2 0QX,51.4258441,-0.9754303,9500,6650,1425,998,2565,1.8,264
+2018,4,497,Rackspace,London One,Global Switch,Multi,Operational,2008,Retail,240 East India Dock Road,United Kingdom,London,E14 9YY,51.5111482,-0.0060816,15000,10500,800,560,1521,1.9,417
+2019,4,497,Rackspace,London One,Global Switch,Multi,Operational,2008,Retail,240 East India Dock Road,United Kingdom,London,E14 9YY,51.5111482,-0.0060816,15000,10500,800,560,1521,1.9,417
+2020,4,497,Rackspace,London One,Global Switch,Multi,Operational,2008,Retail,240 East India Dock Road,United Kingdom,London,E14 9YY,51.5111482,-0.0060816,15000,10500,800,560,1521,1.9,417
+2018,4,498,Rackspace,LON3,Equinix,Multi,Operational,2009,Retail,8 Buckingham Avenue,United Kingdom,Slough,SL1 4AX,51.5224625,-0.6290497,500,250,80,40,152,1.9,14
+2019,4,498,Rackspace,LON3,Equinix,Multi,Operational,2009,Retail,8 Buckingham Avenue,United Kingdom,Slough,SL1 4AX,51.5224625,-0.6290497,500,250,80,40,152,1.9,14
+2020,4,498,Rackspace,LON3,Equinix,Multi,Operational,2009,Retail,8 Buckingham Avenue,United Kingdom,Slough,SL1 4AX,51.5224625,-0.6290497,500,250,80,40,152,1.9,14
+2018,4,504,Datum Data Centres,FRN1,Datum Data Centres,Multi,Operational,2012,Retail,Unit 17/18 Armstrong Mall,United Kingdom,Farnborough,GU14 0NR,51.279501,-0.792355,22000,16500,2000,1500,6000,1.3,710
+2019,4,504,Datum Data Centres,FRN1,Datum Data Centres,Multi,Operational,2012,Retail,Unit 17/18 Armstrong Mall,United Kingdom,Farnborough,GU14 0NR,51.279501,-0.792355,22000,16500,2000,1500,6000,1.3,710
+2020,4,504,Datum Data Centres,FRN1,Datum Data Centres,Multi,Operational,2012,Retail,Unit 17/18 Armstrong Mall,United Kingdom,Farnborough,GU14 0NR,51.279501,-0.792355,22000,16500,2000,1500,6000,1.3,500
+2018,4,520,DigiPlex,London 1,DigiPlex,Multi,Not Operational,1980,Retail,"Breakspear Park, Breakspear Way, Hertfordshire",United Kingdom,Hemel Hempstead,HP2 4UL,51.7558496,-0.4302585, -   , -   , -   , -   ,,1.8, -   
+2019,4,520,DigiPlex,London 1,DigiPlex,Multi,Not Operational,1980,Retail,"Breakspear Park, Breakspear Way, Hertfordshire",United Kingdom,Hemel Hempstead,HP2 4UL,51.7558496,-0.4302585, -   , -   , -   , -   ,,1.8, -   
+2020,4,520,DigiPlex,London 1,DigiPlex,Multi,Not Operational,1980,Retail,"Breakspear Park, Breakspear Way, Hertfordshire",United Kingdom,Hemel Hempstead,HP2 4UL,51.7558496,-0.4302585, -   , -   , -   , -   ,,1.8, -   
+2018,4,536,Digital Realty,Cressex 1,Digital Realty,Single,Operational,1998,Wholesale,"Phoenix House, Cressex Business Park, Coronation Rd",United Kingdom,High Wycombe,HP12 3TA,51.6198638,-0.7789903,50847,50847,2880,2880,5473,1.9,2825
+2019,4,536,Digital Realty,Cressex 1,Digital Realty,Single,Operational,1998,Wholesale,"Phoenix House, Cressex Business Park, Coronation Rd",United Kingdom,High Wycombe,HP12 3TA,51.6198638,-0.7789903,50847,50847,2880,2880,5473,1.9,2825
+2020,4,536,Digital Realty,Cressex 1,Digital Realty,Single,Operational,1998,Wholesale,"Phoenix House, Cressex Business Park, Coronation Rd",United Kingdom,High Wycombe,HP12 3TA,51.6198638,-0.7789903,50847,50847,2880,2880,5473,1.9,2825
+2018,4,537,Digital Realty,"Fountain Ct, Chessington",Digital Realty,Multi,Operational,1996,Wholesale,"Fountain Crt, Cox Ln",United Kingdom,Chessington,KT9 1SJ,51.5124871,-0.1122157,101213,77934,15182,11690,27328,1.8,2595
+2019,4,537,Digital Realty,"Fountain Ct, Chessington",Digital Realty,Multi,Operational,1996,Wholesale,"Fountain Crt, Cox Ln",United Kingdom,Chessington,KT9 1SJ,51.5124871,-0.1122157,101213,77934,15182,11690,27328,1.8,2595
+2020,4,537,Digital Realty,"Fountain Ct, Chessington",Digital Realty,Multi,Operational,1996,Wholesale,"Fountain Crt, Cox Ln",United Kingdom,Chessington,KT9 1SJ,51.5124871,-0.1122157,101213,77934,15182,11690,27328,1.8,2595
+2018,4,538,Digital Realty,Croydon,Digital Realty,Single,Operational,2003,Wholesale,"140-142 Beddington Lane, Prologis Park, Unit B",United Kingdom,Croydon,CR0 4TD,51.3836203,-0.1366505,60000,60000,8280,8280,15732,1.9,2000
+2019,4,538,Digital Realty,Croydon,Digital Realty,Single,Operational,2003,Wholesale,"140-142 Beddington Lane, Prologis Park, Unit B",United Kingdom,Croydon,CR0 4TD,51.3836203,-0.1366505,60000,60000,8280,8280,15732,1.9,2000
+2020,4,538,Digital Realty,Croydon,Digital Realty,Single,Operational,2003,Wholesale,"140-142 Beddington Lane, Prologis Park, Unit B",United Kingdom,Croydon,CR0 4TD,51.3836203,-0.1366505,60000,60000,8280,8280,15732,1.9,2000
+2018,4,592,Digital Realty,West Drayton,Digital Realty,Single,Operational,2008,Powered shell,Mundells Roundabout,United Kingdom,Welwyn Garden City,AL7 1GE,51.4827825,-0.4607001,56732,26664,7829,3680,14875,1.9,1719
+2019,4,592,Digital Realty,West Drayton,Digital Realty,Single,Operational,2008,Powered shell,Mundells Roundabout,United Kingdom,Welwyn Garden City,AL7 1GE,51.4827825,-0.4607001,56732,26664,7829,3680,14875,1.9,1719
+2020,4,592,Digital Realty,West Drayton,Digital Realty,Single,Operational,2008,Powered shell,Mundells Roundabout,United Kingdom,Welwyn Garden City,AL7 1GE,51.4827825,-0.4607001,56732,26664,7829,3680,14875,1.9,1719
+2018,4,593,Digital Realty,Redhill,Digital Realty,Single,Operational,2001,Wholesale,2 St Anne's Boulevard,United Kingdom,Redhill,RH1 1AX,51.2476579,-0.1586681,20644,20644,5698,5698,10826,1.9,688
+2019,4,593,Digital Realty,Redhill,Digital Realty,Single,Operational,2001,Wholesale,2 St Anne's Boulevard,United Kingdom,Redhill,RH1 1AX,51.2476579,-0.1586681,20644,20644,5698,5698,10826,1.9,688
+2020,4,593,Digital Realty,Redhill,Digital Realty,Single,Operational,2001,Wholesale,2 St Anne's Boulevard,United Kingdom,Redhill,RH1 1AX,51.2476579,-0.1586681,20644,20644,5698,5698,10826,1.9,688
+2018,4,594,Digital Realty,Redhill,Digital Realty,Single,Operational,1999,Wholesale,1 St Anne's Boulevard,United Kingdom,Redhill,RH1 1AX,51.2477368,-0.1596823,10110,7987,1395,1102,2651,1.9,337
+2019,4,594,Digital Realty,Redhill,Digital Realty,Single,Operational,1999,Wholesale,1 St Anne's Boulevard,United Kingdom,Redhill,RH1 1AX,51.2477368,-0.1596823,10110,7987,1395,1102,2651,1.9,337
+2020,4,594,Digital Realty,Redhill,Digital Realty,Single,Operational,1999,Wholesale,1 St Anne's Boulevard,United Kingdom,Redhill,RH1 1AX,51.2477368,-0.1596823,10110,7987,1395,1102,2651,1.9,337
+2018,4,663,Digital Realty,6 Braham St,Digital Realty,Single,Not Operational,,Wholesale,6 Braham St,United Kingdom,London,E18 EC1,51.5139154,-0.0725001, -   , -   , -   , -   ,,1.9, -   
+2019,4,663,Digital Realty,6 Braham St,Digital Realty,Single,Not Operational,,Wholesale,6 Braham St,United Kingdom,London,E18 EC1,51.5139154,-0.0725001, -   , -   , -   , -   ,,1.9, -   
+2020,4,663,Digital Realty,6 Braham St,Digital Realty,Single,Not Operational,,Wholesale,6 Braham St,United Kingdom,London,E18 EC1,51.5139154,-0.0725001, -   , -   , -   , -   ,,1.9, -   
+2018,4,667,Digital Realty,Redhill (unit 3),Digital Realty,Multi,Operational,2001,Wholesale,3 St Anne's Boulevard,United Kingdom,Redhill,RH1 1AX,51.2475722,-0.1571131,54500,50140,7521,6919,14290,1.9,1817
+2019,4,667,Digital Realty,Redhill (unit 3),Digital Realty,Multi,Operational,2001,Wholesale,3 St Anne's Boulevard,United Kingdom,Redhill,RH1 1AX,51.2475722,-0.1571131,54500,50140,7521,6919,14290,1.9,1817
+2020,4,667,Digital Realty,Redhill (unit 3),Digital Realty,Multi,Operational,2001,Wholesale,3 St Anne's Boulevard,United Kingdom,Redhill,RH1 1AX,51.2475722,-0.1571131,54500,50140,7521,6919,14290,1.9,1817
+2018,4,668,Digital Realty,Watford - The Chess Building,Digital Realty,Multi,Operational,1989,Wholesale,"The Chess Building, Watford Business Park, 9-17 Caxton Way",United Kingdom,Watford,WD18 8UA,51.643066,-0.427992,66500,66500,9177,9177,17436,1.9,2217
+2019,4,668,Digital Realty,Watford - The Chess Building,Digital Realty,Multi,Operational,1989,Wholesale,"The Chess Building, Watford Business Park, 9-17 Caxton Way",United Kingdom,Watford,WD18 8UA,51.643066,-0.427992,66500,66500,9177,9177,17436,1.9,2217
+2020,4,668,Digital Realty,Watford - The Chess Building,Digital Realty,Multi,Operational,1989,Wholesale,"The Chess Building, Watford Business Park, 9-17 Caxton Way",United Kingdom,Watford,WD18 8UA,51.643066,-0.427992,66500,66500,9177,9177,17436,1.9,2217
+2018,4,669,Digital Realty,Goldsworth,Digital Realty,Multi,Operational,2003,Wholesale,"Unit 21 Goldsworth Park Trading Estate, Kestrel Way",United Kingdom,Woking,GU21 3BA,51.3234975,-0.587003,194788,194788,36036,36036,60000,1.5,6493
+2019,4,669,Digital Realty,Goldsworth,Digital Realty,Multi,Operational,2003,Wholesale,"Unit 21 Goldsworth Park Trading Estate, Kestrel Way",United Kingdom,Woking,GU21 3BA,51.3234975,-0.587003,194788,194788,36036,36036,60000,1.5,6493
+2020,4,669,Digital Realty,Goldsworth,Digital Realty,Multi,Operational,2003,Wholesale,"Unit 21 Goldsworth Park Trading Estate, Kestrel Way",United Kingdom,Woking,GU21 3BA,51.3234975,-0.587003,194788,194788,36036,36036,60000,1.5,6493
+2018,4,705,Epsilon Telecom,Global Hubs - London,Epsilon Telecom,Multi,Operational,2008,Retail,"Telephone House, 69-77 Paul St. level 2",United Kingdom,London,EC2A 4PN,51.525318,-0.0841597,11000,5500,2328,1164,4423,1.9,306
+2019,4,705,Epsilon Telecom,Global Hubs - London,Epsilon Telecom,Multi,Operational,2008,Retail,"Telephone House, 69-77 Paul St. level 2",United Kingdom,London,EC2A 4PN,51.525318,-0.0841597,11000,5500,2328,1164,4423,1.9,306
+2020,4,705,Epsilon Telecom,Global Hubs - London,Epsilon Telecom,Multi,Operational,2008,Retail,"Telephone House, 69-77 Paul St. level 2",United Kingdom,London,EC2A 4PN,51.525318,-0.0841597,11000,5500,2328,1164,4423,1.9,306
+2018,4,752,Equinix,LD1,Equinix,Multi,Operational,,Retail,101 Finsbury Pavement,United Kingdom,London,EC2A 1RS,51.51945,-0.087835,6458,6458,969,969,1550,1.6,179
+2019,4,752,Equinix,LD1,Equinix,Multi,Operational,,Retail,101 Finsbury Pavement,United Kingdom,London,EC2A 1RS,51.51945,-0.087835,6458,6458,969,969,1550,1.6,179
+2020,4,752,Equinix,LD1,Equinix,Multi,Operational,,Retail,101 Finsbury Pavement,United Kingdom,London,EC2A 1RS,51.51945,-0.087835,6458,6458,969,969,1550,1.6,179
+2018,4,753,Equinix,LD2,Digital Realty,Multi,Not Operational,,Retail,"Unit 1, Airport Gate Business Center, Bath Road, Harmondsworth",United Kingdom,West Drayton,UB7 ONA,51.4816271,-0.4602241, -   , -   , -   , -   ,,1.7, -   
+2019,4,753,Equinix,LD2,Digital Realty,Multi,Not Operational,,Retail,"Unit 1, Airport Gate Business Center, Bath Road, Harmondsworth",United Kingdom,West Drayton,UB7 ONA,51.4816271,-0.4602241, -   , -   , -   , -   ,,1.7, -   
+2020,4,753,Equinix,LD2,Digital Realty,Multi,Not Operational,,Retail,"Unit 1, Airport Gate Business Center, Bath Road, Harmondsworth",United Kingdom,West Drayton,UB7 ONA,51.4816271,-0.4602241, -   , -   , -   , -   ,,1.7, -   
+2018,4,754,Equinix,LD3,,Multi,Operational,1998,Retail,"Unit 11, Matrix Park, 900 Coronation Rd",United Kingdom,London,NW10 7PH,51.529276,-0.273058,29062,29062,4359,4359,7629,1.8,908
+2019,4,754,Equinix,LD3,,Multi,Operational,1998,Retail,"Unit 11, Matrix Park, 900 Coronation Rd",United Kingdom,London,NW10 7PH,51.529276,-0.273058,29062,29062,4359,4359,7629,1.8,908
+2020,4,754,Equinix,LD3,,Multi,Operational,1998,Retail,"Unit 11, Matrix Park, 900 Coronation Rd",United Kingdom,London,NW10 7PH,51.529276,-0.273058,29062,29062,4359,4359,7629,1.8,908
+2018,4,755,Equinix,LD4,Equinix,Multi,Operational,2007,Retail,2 Buckingham Avenue,United Kingdom,Slough,SL1 4NB,51.5234541,-0.6360912,107639,107639,16146,16146,36721,1.8,3364
+2019,4,755,Equinix,LD4,Equinix,Multi,Operational,2007,Retail,2 Buckingham Avenue,United Kingdom,Slough,SL1 4NB,51.5234541,-0.6360912,139889,139889,20983,20983,36721,1.8,4372
+2020,4,755,Equinix,LD4,Equinix,Multi,Operational,2007,Retail,2 Buckingham Avenue,United Kingdom,Slough,SL1 4NB,51.5234541,-0.6360912,139889,139889,20983,20983,36721,1.8,4372
+2018,4,756,Equinix,LD5,Equinix,Multi,Operational,2010,Retail,"8 Buckingham Avenue, Slough Trading Estate",United Kingdom,Slough,SL1 4AX,51.5224625,-0.6290497,172222,168778,25833,25316,49083,1.9,5382
+2019,4,756,Equinix,LD5,Equinix,Multi,Operational,2010,Retail,"8 Buckingham Avenue, Slough Trading Estate",United Kingdom,Slough,SL1 4AX,51.5224625,-0.6290497,172222,172222,25833,25833,49083,1.9,5382
+2020,4,756,Equinix,LD5,Equinix,Multi,Operational,2010,Retail,"8 Buckingham Avenue, Slough Trading Estate",United Kingdom,Slough,SL1 4AX,51.5224625,-0.6290497,172222,172222,25833,25833,49083,1.9,5382
+2018,4,936,Global Switch,London East,Global Switch,Multi,Operational,,Wholesale,3 Nutmeg Lane,United Kingdom,London,E14 2AX,51.5111086,-0.0037486,465000,441750,69750,66263,104625,1.5,12917
+2019,4,936,Global Switch,London East,Global Switch,Multi,Operational,,Wholesale,3 Nutmeg Lane,United Kingdom,London,E14 2AX,51.5111086,-0.0037486,465000,441750,69750,66263,104625,1.5,12917
+2020,4,936,Global Switch,London East,Global Switch,Multi,Operational,,Wholesale,3 Nutmeg Lane,United Kingdom,London,E14 2AX,51.5111086,-0.0037486,465000,441750,69750,66263,104625,1.5,12917
+2018,4,937,Global Switch,London North,Global Switch,Multi,Operational,,Wholesale,240 East India Dock Road,United Kingdom,London,E14 9YY,51.5111482,-0.0060816,170000,153000,25500,22950,57667,1.7,4359
+2019,4,937,Global Switch,London North,Global Switch,Multi,Operational,,Wholesale,240 East India Dock Road,United Kingdom,London,E14 9YY,51.5111482,-0.0060816,226145,169609,33922,25442,57667,1.7,5799
+2020,4,937,Global Switch,London North,Global Switch,Multi,Operational,,Wholesale,240 East India Dock Road,United Kingdom,London,E14 9YY,51.5111482,-0.0060816,226145,180916,33922,27138,57667,1.7,5799
+2018,4,971,NTT Communications,Ajax,NTT Communications,Multi,Operational,,Retail,665 Ajax Avenue,United Kingdom,Slough,SL1 4BG,51.516869,-0.616584,26909,25564,5000,4750,6000,1.2,747
+2019,4,971,NTT Communications,Ajax,NTT Communications,Multi,Operational,,Retail,665 Ajax Avenue,United Kingdom,Slough,SL1 4BG,51.516869,-0.616584,26909,25564,5000,4750,6000,1.2,747
+2020,4,971,NTT Communications,Ajax,NTT Communications,Multi,Operational,,Retail,665 Ajax Avenue,United Kingdom,Slough,SL1 4BG,51.516869,-0.616584,26909,25564,5000,4750,6000,1.2,747
+2018,4,972,NTT Communications,Centro,NTT Communications,Multi,Operational,,Retail,"Centro 3 Boundary Way, Hemel Hempstead",United Kingdom,Hemel Hempstead,HP2 7SU,51.7641986,-0.4345023,20000,19000,3000,2850,3900,1.3,556
+2019,4,972,NTT Communications,Centro,NTT Communications,Multi,Operational,,Retail,"Centro 3 Boundary Way, Hemel Hempstead",United Kingdom,Hemel Hempstead,HP2 7SU,51.7641986,-0.4345023,20000,19000,3000,2850,3900,1.3,556
+2020,4,972,NTT Communications,Centro,NTT Communications,Multi,Operational,,Retail,"Centro 3 Boundary Way, Hemel Hempstead",United Kingdom,Hemel Hempstead,HP2 7SU,51.7641986,-0.4345023,20000,19000,3000,2850,3900,1.3,556
+2018,4,973,NTT Communications,Maylands,NTT Communications,Multi,Operational,,Retail,150 Maylands Ave,United Kingdom,Hemel Hempstead,HP2 7DF,51.7649831,-0.4421184,25833,25833,6000,6000,7201,1.2,718
+2019,4,973,NTT Communications,Maylands,NTT Communications,Multi,Operational,,Retail,150 Maylands Ave,United Kingdom,Hemel Hempstead,HP2 7DF,51.7649831,-0.4421184,25833,25833,6000,6000,7201,1.2,718
+2020,4,973,NTT Communications,Maylands,NTT Communications,Multi,Operational,,Retail,150 Maylands Ave,United Kingdom,Hemel Hempstead,HP2 7DF,51.7649831,-0.4421184,25833,25833,6000,6000,7201,1.2,718
+2018,4,1051,Infinity SDC,Romford North,Infinity SDC,Multi,Operational,,Wholesale,1 King George Close,United Kingdom,Romford,RM7 7PN,51.5861327,0.1661822,107639,86111,16146,12917,32292,2,2990
+2019,4,1051,Infinity SDC,Romford North,Infinity SDC,Multi,Operational,,Wholesale,1 King George Close,United Kingdom,Romford,RM7 7PN,51.5861327,0.1661822,107639,86111,16146,12917,32292,2,2990
+2020,4,1051,Infinity SDC,Romford North,Infinity SDC,Multi,Operational,,Wholesale,1 King George Close,United Kingdom,Romford,RM7 7PN,51.5861327,0.1661822,107639,86111,16146,12917,32292,2,2990
+2018,4,1052,Infinity SDC,Romford South,Infinity SDC,Multi,Operational,2016,Wholesale,King George Close,United Kingdom,Romford,RM7 7PN,51.5858671,0.1677437,60278,30139,9042,4521,16000,1.5,1674
+2019,4,1052,Infinity SDC,Romford South,Infinity SDC,Multi,Operational,2016,Wholesale,King George Close,United Kingdom,Romford,RM7 7PN,51.5858671,0.1677437,60278,33153,9042,4973,16000,1.5,1674
+2020,4,1052,Infinity SDC,Romford South,Infinity SDC,Multi,Operational,2016,Wholesale,King George Close,United Kingdom,Romford,RM7 7PN,51.5858671,0.1677437,60278,36167,9042,5425,16000,1.5,1674
+2018,4,1053,Virtus Data Centres,LON4,Virtus Data Centres,Multi,Operational,,Wholesale,14 Liverpool Rd.,United Kingdom,Slough,SL1 4QZ,51.5231433,-0.6224058,114098,102688,27000,24300,40000,1.3,3169
+2019,4,1053,Virtus Data Centres,LON4,Virtus Data Centres,Multi,Operational,,Wholesale,14 Liverpool Rd.,United Kingdom,Slough,SL1 4QZ,51.5231433,-0.6224058,114098,102688,27000,24300,40000,1.3,3169
+2020,4,1053,Virtus Data Centres,LON4,Virtus Data Centres,Multi,Operational,,Wholesale,14 Liverpool Rd.,United Kingdom,Slough,SL1 4QZ,51.5231433,-0.6224058,114098,102688,27000,24300,40000,1.3,3169
+2018,4,1054,CyrusOne,London 2,CyrusOne,Multi,Operational,,Wholesale,"Unit F Prologis Distrib Park, Stockley Road",United Kingdom,London,UB7 9FN,51.5037314,-0.4478196,49000,49000,15000,15000,21888,1.9,1256
+2019,4,1054,CyrusOne,London 2,CyrusOne,Multi,Operational,,Wholesale,"Unit F Prologis Distrib Park, Stockley Road",United Kingdom,London,UB7 9FN,51.5037314,-0.4478196,64000,64000,21000,21000,21888,1.9,1641
+2020,4,1054,CyrusOne,London 2,CyrusOne,Multi,Operational,,Wholesale,"Unit F Prologis Distrib Park, Stockley Road",United Kingdom,London,UB7 9FN,51.5037314,-0.4478196,76800,76800,21000,21000,21888,1.9,1969
+2018,4,1075,INAP,London 1,Interxion,Multi,Operational,,Retail,11 Hanbury St,United Kingdom,London,E1 6QR,51.5203975,-0.0737773,1000,390,100,39,180,1.8,28
+2019,4,1075,INAP,London 2,Interxion,Multi,Operational,,Retail,11 Hanbury St,United Kingdom,London,E1 6QR,51.5203975,-0.0737773,1000,390,100,39,180,1.8,28
+2020,4,1075,INAP,London 2,Digital Realty,Multi,Operational,,Retail,11 Hanbury St,United Kingdom,London,E1 6QR,51.5203975,-0.0737773,1000,390,100,39,180,1.8,28
+2018,4,1076,INAP,London 2,Equinix,Multi,Operational,,Retail,8-9 Harbour Exchange Square,United Kingdom,London,E14 9JY,51.4981657,-0.0152639,1000,390,150,59,270,1.8,28
+2019,4,1076,INAP,London 1,Equinix,Multi,Operational,,Retail,8-9 Harbour Exchange Square,United Kingdom,London,E14 9JY,51.4981657,-0.0152639,1000,390,150,59,270,1.8,28
+2020,4,1076,INAP,London 1,Equinix,Multi,Operational,,Retail,8-9 Harbour Exchange Square,United Kingdom,London,E14 9JY,51.4981657,-0.0152639,1000,390,150,59,270,1.8,28
+2018,4,1128,Interxion,LON1,Interxion,Multi,Operational,,Wholesale,11 Hanbury St,United Kingdom,London,E1 6QR,51.5203975,-0.0737773,58125,52313,6200,5580,11780,1.9,1938
+2019,4,1128,Interxion,LON1,Interxion,Multi,Operational,,Wholesale,11 Hanbury St,United Kingdom,London,E1 6QR,51.5203975,-0.0737773,58125,52313,6200,5580,11780,1.9,1938
+2020,4,1128,Digital Realty,LON1,Digital Realty,Multi,Operational,,Wholesale,11 Hanbury St,United Kingdom,London,E1 6QR,51.5203975,-0.0737773,58125,52313,6200,5580,11780,1.9,1938
+2018,4,1129,Interxion,LON2,Interxion,Multi,Operational,2011,Wholesale,"Hertsmere House, 2 Hertsmere Rd., Poplar",United Kingdom,London,E14 4AL,51.5070783,-0.0247371,16145,15015,4000,3720,6000,1.5,260
+2019,4,1129,Interxion,LON2,Interxion,Multi,Operational,2011,Wholesale,"Hertsmere House, 2 Hertsmere Rd., Poplar",United Kingdom,London,E14 4AL,51.5070783,-0.0247371,16145,15015,4000,3720,6000,1.5,260
+2020,4,1129,Digital Realty,LON2,Digital Realty,Multi,Operational,2011,Wholesale,"Hertsmere House, 2 Hertsmere Rd., Poplar",United Kingdom,London,E14 4AL,51.5070783,-0.0247371,16145,15015,4000,3720,6000,1.5,260
+2018,4,1148,iomart,London,iomart,Multi,Operational,2000,Retail,"Standard House, 16-22 Epworth St.",United Kingdom,London,EC2A 4DN,51.5233237,-0.0853884,14720,11040,2400,1800,4320,1.8,409
+2019,4,1148,iomart,London,iomart,Multi,Operational,2000,Retail,"Standard House, 16-22 Epworth St.",United Kingdom,London,EC2A 4DN,51.5233237,-0.0853884,14720,11040,2400,1800,4320,1.8,409
+2020,4,1148,iomart,London,iomart,Multi,Operational,2000,Retail,"Standard House, 16-22 Epworth St.",United Kingdom,London,EC2A 4DN,51.5233237,-0.0853884,14720,11040,2400,1800,4320,1.8,409
+2018,4,1149,iomart,Maidenhead,iomart,Multi,Operational,,Retail,"Spectrum House, Clivemont Road",United Kingdom,Maidenhead,SL6 7FW,51.5287886,-0.7254238,11920,8940,1943,1457,3497,1.8,331
+2019,4,1149,iomart,Maidenhead,iomart,Multi,Operational,,Retail,"Spectrum House, Clivemont Road",United Kingdom,Maidenhead,SL6 7FW,51.5287886,-0.7254238,11920,8940,1943,1457,3497,1.8,331
+2020,4,1149,iomart,Maidenhead,iomart,Multi,Operational,,Retail,"Spectrum House, Clivemont Road",United Kingdom,Maidenhead,SL6 7FW,51.5287886,-0.7254238,11920,8940,1943,1457,3497,1.8,331
+2018,4,1189,KDDI Telehouse,Docklands East,KDDI Telehouse,Multi,Operational,1999,Retail,14 Coriander Ave,United Kingdom,London,E14 2AA,51.5113934,-0.0018024,91482,86908,7487,7113,14224,1.9,2541
+2019,4,1189,KDDI Telehouse,Docklands East,KDDI Telehouse,Multi,Operational,1999,Retail,14 Coriander Ave,United Kingdom,London,E14 2AA,51.5113934,-0.0018024,91482,91482,7487,7487,14224,1.9,2541
+2020,4,1189,KDDI Telehouse,Docklands East,KDDI Telehouse,Multi,Operational,1999,Retail,14 Coriander Ave,United Kingdom,London,E14 2AA,51.5113934,-0.0018024,91482,91482,7487,7487,14224,1.9,2541
+2018,4,1190,KDDI Telehouse,Docklands North,KDDI Telehouse,Multi,Operational,1990,Retail,14 Coriander Ave,United Kingdom,London,E14 2AA,51.5114035,-0.0036667,104592,99362,14000,13300,26600,1.9,2905
+2019,4,1190,KDDI Telehouse,Docklands North,KDDI Telehouse,Multi,Operational,1990,Retail,14 Coriander Ave,United Kingdom,London,E14 2AA,51.5114035,-0.0036667,104592,104592,14000,14000,26600,1.9,2905
+2020,4,1190,KDDI Telehouse,Docklands North,KDDI Telehouse,Multi,Operational,1990,Retail,14 Coriander Ave,United Kingdom,London,E14 2AA,51.5114035,-0.0036667,104592,104592,14000,14000,26600,1.9,2905
+2018,4,1191,KDDI Telehouse,Docklands West,KDDI Telehouse,Multi,Operational,1997,Retail,14 Coriander Ave,United Kingdom,London,E14 2AA,51.5114035,-0.0036667,53815,43052,7090,5672,13471,1.9,1495
+2019,4,1191,KDDI Telehouse,Docklands West,KDDI Telehouse,Multi,Operational,1997,Retail,14 Coriander Ave,United Kingdom,London,E14 2AA,51.5114035,-0.0036667,53815,43052,7090,5672,13471,1.9,1495
+2020,4,1191,KDDI Telehouse,Docklands West,KDDI Telehouse,Multi,Operational,1997,Retail,14 Coriander Ave,United Kingdom,London,E14 2AA,51.5114035,-0.0036667,53815,43052,7090,5672,13471,1.9,1495
+2018,4,1203,KDDI Telehouse,Metro,KDDI Telehouse,Multi,Operational,2010,Retail,65 Clifton Street,United Kingdom,London,EC2A 4JE,51.522162,-0.083438,9042,7234,1913,1530,3635,1.9,251
+2019,4,1203,KDDI Telehouse,Metro,KDDI Telehouse,Multi,Operational,2010,Retail,65 Clifton Street,United Kingdom,London,EC2A 4JE,51.522162,-0.083438,9042,7234,1913,1530,3635,1.9,251
+2020,4,1203,KDDI Telehouse,Metro,KDDI Telehouse,Multi,Operational,2010,Retail,65 Clifton Street,United Kingdom,London,EC2A 4JE,51.522162,-0.083438,9042,7234,1913,1530,3635,1.9,251
+2018,4,1217,Keppel DC REIT,GV7,Keppel DC REIT,Single,Operational,2011,Wholesale,7 Greenwich View Place,United Kingdom,London,E14 9NN,51.4947041,-0.0186993,24972,24972,6258,6258,11890,1.9,694
